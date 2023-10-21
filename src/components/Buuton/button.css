@@ -1,0 +1,16 @@
+.btn{
+    background-color: #ffdf53;
+    color:black;
+    padding: 20px;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline: none;
+}
+
+.btn:hover{
+    background-color: #c4ac42;
+}

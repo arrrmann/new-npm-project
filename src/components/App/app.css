@@ -1,0 +1,15 @@
+body, hrml{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:  #ffe0bd;
+}
+
+.btn-wrapper{
+    margin: 140px 0px 0px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+
+}
