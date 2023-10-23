@@ -2,14 +2,21 @@ body, hrml{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:  #ffe0bd;
+    background-color:  #fdefe6;
 }
 
 .btn-wrapper{
-    margin: 140px 0px 0px 80px;
+    margin: 160px 0px 0px 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 500px;
+}
 
+.card-wrapper{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }

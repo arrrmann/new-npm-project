@@ -1,10 +1,14 @@
 import React from "react";
 import './button.css'
 
-export default function Button(){
+// interface Identife{
+//     text:string;
+// }
+
+export default function Button({text}:{text:string}){
     return(
         <button className="btn">
-            Download App
+            {text}
         </button>
     )
 }

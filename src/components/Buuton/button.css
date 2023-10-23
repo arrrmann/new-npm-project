@@ -1,5 +1,5 @@
 .btn{
-    background-color: #ffdf53;
+    background-color: #fad77d;
     color:black;
     padding: 20px;
     width: 200px;
@@ -12,5 +12,6 @@
 }
 
 .btn:hover{
-    background-color: #c4ac42;
+    background-color: #ffd05b;
+    cursor: pointer;
 }
